@@ -33,7 +33,7 @@
 <form id="f" method=post action= '/board/insertProcess.bod' >
 <table>
 <tr>
-	<td><h1>new record....</h1>
+	<td><h1>new record.</h1>
 	</td>
 </tr>
 <tr>
